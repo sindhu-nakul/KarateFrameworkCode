@@ -17,3 +17,10 @@ Scenario: calculator scenario
 	* def a = 200
 	* def b = 20
 	* print 'mul ->' + (a * b)	
+
+
+ Scenario: calculator add scenario
+	
+	* def a = 200
+	* def b = 20
+	* print 'add ->' + (a + b)	
